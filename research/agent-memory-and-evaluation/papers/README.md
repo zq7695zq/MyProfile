@@ -29,6 +29,8 @@
 ## 引用文件
 - [BibTeX](references.bib)
 - [许可核对记录](LICENSES.md)
+- [可再分发 PDF 下载脚本](download-cc-by-papers.ps1)（仅下载已核实 CC BY 4.0 的版本）
+- [PDF 归档目录](pdfs/README.md)
 - [完整调研报告](../REPORT.md)
 - [原始来源总索引](../SOURCES.md)
 
