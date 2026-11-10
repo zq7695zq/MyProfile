@@ -814,6 +814,9 @@ T5：人工批准后才允许合并/部署
 
 ## 10. 原始来源与延伸阅读书目
 
+> **逐篇论文档案**：本仓库另有 [arXiv 论文库](papers/README.md)，为每篇引用论文提供独立阅读卡片、原始 PDF/HTML 链接、版本与许可记录，以及 [BibTeX 文献库](papers/references.bib)。论文 PDF 是否能复制进仓库取决于具体版本的 license，详见 [许可核对表](papers/LICENSES.md)。
+
+
 ### A. 五组截图的最直接来源（优先级最高）
 
 **[A1]** Lance Martin / Anthropic (2026-11-06). **The components of agent memory**.  
