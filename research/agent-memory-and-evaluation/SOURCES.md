@@ -70,3 +70,23 @@
 - Kun Chen 的实验属于作者公开自述；报告没有拿到完整任务级原始结果、运行配置和可独立复算材料。
 - badlogic/pi-terminal-bench 是与截图内容高度相关的 Pi/Harbor 实践仓库，但不能确认它就是截图作者引用的原文。
 - arXiv 页面链接指向论文版本；引用前应检查最新版本、作者列表和发表状态。
+
+
+## 7. 独立 arXiv 阅读卡片
+
+本仓库已为引用的论文建立逐篇阅读卡片，提供摘要、研究问题、方法、结果、限制、工程启发以及原始 PDF / HTML 链接：
+
+- [论文库总览](papers/README.md)
+- [许可核对与 PDF 再分发说明](papers/LICENSES.md)
+- [BibTeX 文献库](papers/references.bib)
+
+| 主题 | 论文阅读卡片 |
+|---|---|
+| Memory | [MemGPT](papers/memory/2310.08560-memgpt.md) · [Generative Agents](papers/memory/2304.03442-generative-agents.md) · [LongMemEval](papers/memory/2410.10813-longmemeval.md) · [Sleep-time Compute](papers/memory/2504.13171-sleep-time-compute.md) · [CL-Bench](papers/memory/2606.05661-cl-bench.md) |
+| Prospective memory | [T-Mem](papers/prospective-memory/2606.15405-t-mem.md) · [TriggerBench](papers/prospective-memory/2606.23459-triggerbench.md) · [ProMemAgent](papers/prospective-memory/2610.27400-promemagent.md) |
+| Coding agent testing | [Agent-Generated Tests](papers/coding-agent-testing/2602.07900-agent-generated-tests.md) · [ExecCritic](papers/coding-agent-testing/2609.09133-execcritic.md) · [Verification in Agent Harnesses](papers/coding-agent-testing/2610.34577-verification-harnesses.md) |
+| Agent evaluation | [Terminal-Bench](papers/agent-evaluation/2601.11868-terminal-bench.md) |
+
+## 8. arXiv PDF 处理原则
+
+arXiv 免费下载不等于第三方可重新托管。每篇论文的 PDF 都保留原始 arXiv 链接；只有确认该版本 license 明确允许再分发时，才会把 PDF 文件复制进 GitHub。当前仓库以独立研究笔记、书目信息和原文链接为主。具体逐篇状态见 [papers/LICENSES.md](papers/LICENSES.md)。
