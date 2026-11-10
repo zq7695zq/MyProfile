@@ -5,8 +5,9 @@
 ## 阅读顺序
 
 1. [完整调研报告](REPORT.md)
-2. [来源索引与引用资料说明](SOURCES.md)
-3. [截图证据说明](assets/README.md)
+2. [arXiv 论文库：逐篇阅读卡片、PDF/HTML 原文链接与 BibTeX](papers/README.md)
+3. [来源索引与引用资料说明](SOURCES.md)
+4. [截图证据说明](assets/README.md)
 
 ## 主题
 
